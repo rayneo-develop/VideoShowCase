@@ -8,3 +8,11 @@
 /aos.keystore
 /doc/技术实现说明与操作指南.md
 /.idea/
+/app/release/baselineProfiles/0/app-release.dm
+/app/release/baselineProfiles/1/app-release.dm
+/glass/release/glass.apk
+/glass/release/baselineProfiles/0/glass-release.dm
+/glass/release/baselineProfiles/1/glass-release.dm
+/app/release/mobile.apk
+/app/release/output-metadata.json
+/glass/release/output-metadata.json
