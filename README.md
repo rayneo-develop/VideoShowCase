@@ -537,4 +537,6 @@ A：见第五节；可尝试降分辨率/帧率或选「Video only」减轻负�
 
 ## License
 
-*TBD*
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+本项目基于 **MIT 许可证** 开源，详情请参阅 [LICENSE](LICENSE) 文件。
