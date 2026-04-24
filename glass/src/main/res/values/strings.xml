@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Glass</string>
+    <string name="dialog_audio_title">Enable microphone audio?</string>
+    <string name="dialog_audio_subtitle">This cannot be changed after streaming starts</string>
+    <string name="dialog_audio_enable">Enable audio</string>
+    <string name="dialog_video_only">Video only (no microphone capture)</string>
+</resources>
