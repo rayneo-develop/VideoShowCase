@@ -4,3 +4,7 @@
 /app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
 /glass/build/
 /glass/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
+/local.properties
+/aos.keystore
+/doc/技术实现说明与操作指南.md
+/.idea/
